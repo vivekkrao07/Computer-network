@@ -35,7 +35,7 @@ pip install psutil ping3 schedule matplotlib
 python network_monitor.py
 
 
-The live graph will open and update automatically every 5 seconds.
+The live graph will open and update automatically every 2 seconds.
 
 ⚙️ Configuration
 
